@@ -1,10 +1,10 @@
 ﻿namespace Prog
 {
-    internal class Win
+    internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World and Russin");
         }
     }
 }
